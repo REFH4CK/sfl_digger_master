@@ -37,7 +37,7 @@ export const digItems = {
   "Clam Shell": ClamShell,
   "Old Bottle": OldBottle,
   Vase: Vase,
-  "Salt Dino Egg": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4TJ4AAAAvDYADEE9gpgESahCAj5KEIokzi6c1VEW2Qd0QD/xpJLQwYlDIRhK063AEy3Sip3QY//wHAP//rsymyLlMh0hRy1aA21rbnuQh1z//BHwwQNogQx/Uzo7Wip8N0D6um4aI6P8EQFo4AFplQBqqyIFUlDigI5EMEhXrHEbJpYTTlEsDw9RM969xbO6c3/XnzV83Y8y+rPv1c1su5jfgDw==",
+  "Otter Pebble": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4TJsAAAAvDoADED+gqG0jNlcS4w7A/aeaRlLg7Fm4A3osvDUK2rZhQ4XS/SsQSALbfrEAQOGRPF1Vqq3X1/4NXNW2YzU3gwGCglfmH+hDAIQKmDW3BlikEup/YSKi/wnMjwfu8/9rAMwR8QZQrggm9JUkDb0Hr4+hHMbsTNtubr6ntcbj/D7TUPMr00Q3juXoRAd3N5VWx3HsFNBbAKiqAAA=",
   Hieroglyph: Hieroglyph,
   "Ancient Clock": AncientClock,
   "Sea Cucumber": SeaCucumber,
